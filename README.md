@@ -57,24 +57,6 @@ The objective of this assignment is to build a feedforward neural network to pre
 
 ---
 
-## Grading Criteria
-- Correct implementation of data preprocessing, splitting, and model design.
-- Properly defined cost function and use of optimization techniques.
-- Accurate cross-validation and justification for the chosen parameters.
-- Clarity and accuracy of visualizations.
-- Overall performance and correctness of the final model.
-
----
-
-## Instructions
-1. Submit a Jupyter notebook with the implementation.
-2. Include a PDF of the notebook or a report summarizing your findings.
-3. Ensure that all visualizations are properly labeled and clear.
-4. Follow coding best practices and include comments in your code.
-5. Late submissions will incur penalties as per the course policy.
-
----
-
 ## Dataset Description
 - **Dataset:** Bike Sharing dataset
 - **Features:**
@@ -84,5 +66,3 @@ The objective of this assignment is to build a feedforward neural network to pre
 
 ---
 
-### Contact
-For any queries, please contact the course instructor or TA.
